@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057037822704",
+    "project_id": "android-food-ord-1518318210530"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057037822704:android:d909f0ba96b17fe3",
+        "android_client_info": {
+          "package_name": "com.inducesmile.androidfoodordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057037822704-b0dbe7epp5590gg0loba2hj3rk3e7rvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ1l05i7j1AqCWq0syQB37Q3wd3gylHJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
